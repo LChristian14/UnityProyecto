@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Primer Proyecto.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CritiasFoliage\Shader\WindTree\Tree\WindTree_Master.shader">
+    <Files>
+      <File FileName="Assets\CritiasFoliage\Shader\WindTree\Tree\WindTree_Master.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
